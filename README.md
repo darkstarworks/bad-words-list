@@ -1,22 +1,24 @@
-# Large Bad-Word list, in English
+<h1 align="center">Large Bad-Word list, in English</h1>
 
-> [!TIP]
-> Use it for example with:
-- [x] Social Media
-- [x] Live Streaming
-- [x] WordPress Comments
+> <p align="center">[!TIP]</p>
+>  
+> <p align="center">✅ Social Media</p>
+> 
+> <p align="center">✅ Live Streaming</p>
+> 
+> <p align="center">✅ WordPress Comments</p>
+<p align="right">⋅</p>
+<h2 align="center">No-liability Disclaimer</h2>
 
-> [!NOTE]
-> MIT-License, so everybody is free to use how they see fit.
+> <p align="center">[!IMPORTANT]
+> This is an automatically generated list.</p>
+>
+> <p align="center">This list may contain words that you don't want to block.</p>
+> 
+> <p align="center">This list may not be complete enough for your usecase.</p>
 
-# No-liability Disclaimer
-> [!IMPORTANT]
-> This is an automatically generated list.
-> The contents of this list have not been verified.
-> This list may contain words that you don't want to block.
-> This list may not be complete enough for your usecase.
+<p align="right">⋅</p>
 
-### :rotating_light: You are now informed.
+<h3 align="center">:rotating_light: You are now informed.</h3>
 
-
-### Please enjoy, share, fork or star. Check out the other languages! :accessibility:
+<h2 align="center">Please enjoy, share, fork or star.</h2>
