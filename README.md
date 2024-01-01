@@ -17,6 +17,6 @@
 > This list may not be complete enough for your usecase.
 
 ### :rotating_light: You are now informed.
-## Please enjoy, share, fork and/or star.
 
-## Check out the other languages also! :accessibility:
+
+### Please enjoy, share, fork or star. Check out the other languages! :accessibility:
