@@ -1,4 +1,4 @@
-<h1 align="center">Large Bad-Word list, in English</h1>
+<h1 align="center">Large Bad Word lists</h1>
 
 > <p align="center">[!TIP]</p>
 >  
